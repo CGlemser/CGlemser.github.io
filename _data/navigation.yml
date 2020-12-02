@@ -1,22 +1,16 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
+  - title: "Publications & Talks"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Stats stuff"
+    url: /stats/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Plant stuff"
+    url: /plants/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Artsy stuff"
+    url: /art/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
