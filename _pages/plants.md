@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Stats stuff"
-permalink: /stats/
+title: "Plant stuff"
+permalink: /plants/
 author_profile: true
 redirect_from:
-  - /stats
+  - /plants
 ---
 
 {% include base_path %}
 
-stats content
+plant content

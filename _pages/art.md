@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Stats stuff"
-permalink: /stats/
+title: "Artsy stuff"
+permalink: /art/
 author_profile: true
 redirect_from:
-  - /stats
+  - /art
 ---
 
 {% include base_path %}
 
-stats content
+art content (bujo, stitching ...)
