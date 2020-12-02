@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Statisics, OVGU Magdeburg, ongoing
+* B.Sc. in Psychology, Universiy of Tübingen, 2018
+* M.A in Interpreting and Translation, University of Central Lancashire, 2014
+* state-certified translator and interpreter, Würzburg School of Translation and Interpreting, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 09/2020: Data Science Intern at Hannover Re
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 04/2019-06/2020: Research Assistant in statistics
+  * Leibniz Institute for Neurobioloy
+  * Supervisor: Max Happel, PhD
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 10/2017-03/2018: Research Assistant in psychology
+  * University of Milano-Bicocca
+  * Supervisors: Juliette Richetin, PhD; Emanuele Preti, PhD
+
+* 10/2015-09/2018: Tutoring of statistics and R courses for psychologists
+  * Eberhard Karls University of Tübingen
+  * Supervisor: Florian Wickelmaier, PhD
