@@ -1,10 +1,9 @@
 ---
-title: "Discrepancies in the Structural Change Test in Applications to the BTL
-and MPT Model Related to the Covariance Estimator"
+title: "Discrepancies in the Structural Change Test in Applications to the BTL and MPT Model Related to the Covariance Estimator"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-02-22-strucchange
-venue: "International Workshop on Psychometric Computing, Charles University & Czech Academy of Sciences"
+venue: "International Workshop on Psychometric Computing, Charles University"
 date: 2019-22-02
 location: "Prague, Czech Republic"
 ---
