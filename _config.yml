@@ -83,8 +83,8 @@ author:
   name             : "Claudia Glemser"
   avatar           : "profile.png"
   bio              : "statistics student and lover of plants and scribbles"
-  location         : "Hannover, Germany"
-  employer         : "Hannover Re"
+  location         : "Magdeburg, Germany"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://you rfullgooglescholarurl.com"
   email            : "glemser.c@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/claudiaglemser/"
+  linkedin         : "claudiaglemser"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
