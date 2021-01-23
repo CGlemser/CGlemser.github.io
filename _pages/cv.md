@@ -20,7 +20,7 @@ Work and teaching experience
 ======
 * 09/2020-12/2020: Data Science Intern at Hannover Re
 
-* 04/2020 - 08/2020: Tutoring a Neural Networks course for computer scientists
+* 04/2020-08/2020: Tutoring a Neural Networks course for computer scientists
   * OVGU Magdeburg
   * Supervisor: Sebastian Stober, Professor for AI
 
