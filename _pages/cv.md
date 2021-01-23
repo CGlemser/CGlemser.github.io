@@ -16,9 +16,13 @@ Education
 * M.A in Interpreting and Translation, University of Central Lancashire, 2014
 * state-certified translator and interpreter, Würzburg School of Translation and Interpreting, 2013
 
-Work experience
+Work and teaching experience
 ======
-* since 09/2020: Data Science Intern at Hannover Re
+* 09/2020-12/2020: Data Science Intern at Hannover Re
+
+* 04/2020 - 08/2020: Tutoring a Neural Networks course for computer scientists
+  * OVGU Magdeburg
+  * Supervisor: Sebastian Stober, Professor for AI
 
 * 04/2019-06/2020: Research Assistant in statistics
   * Leibniz Institute for Neurobioloy
@@ -28,6 +32,6 @@ Work experience
   * University of Milano-Bicocca
   * Supervisors: Juliette Richetin, PhD; Emanuele Preti, PhD
 
-* 10/2015-09/2018: Tutoring of statistics and R courses for psychologists
+* 10/2015-09/2018: Tutoing statistics and R courses for psychologists
   * Eberhard Karls University of Tübingen
   * Supervisor: Florian Wickelmaier, PhD
