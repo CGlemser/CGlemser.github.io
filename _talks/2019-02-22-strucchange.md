@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-02-22-strucchange
 venue: "International Workshop on Psychometric Computing, Charles University"
-date: 2019-22-02
+date: 2019-02-22
 location: "Prague, Czech Republic"
 ---
 
