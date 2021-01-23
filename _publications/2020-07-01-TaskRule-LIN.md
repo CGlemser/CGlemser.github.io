@@ -13,6 +13,3 @@ The primary auditory cortex (A1) is an essential, integrative node that encodes 
 
 
 Read paper [here](https://www.researchgate.net/publication/342658281_Task_rule_and_choice_are_reflected_by_layer-specific_processing_in_rodent_auditory_cortical_microcircuits)
-
-
-Recommended citation: Zempeltzi, M., Kisse, M., Brunk, M. G. K., Glemser, C., Aksit, S., Deane, K. E. et al. (2020). Task rule and choice are reflected by layer-specific processing in rodent auditory cortical microcircuits.  <i>Communications Biology</i>, <i>3(1)</i>. doi: 10.1038/s42003-020-1073-3
