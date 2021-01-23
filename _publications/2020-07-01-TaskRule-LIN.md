@@ -2,9 +2,10 @@
 title: "Task rule and choice are reflected by layer-specific processing in rodent auditory cortical microcircuits"
 collection: publications
 permalink: /publication/2020-07-01-TaskRule-LIN
-excerpt: 
+excerpt: 'ye'
 date: 2020-07-01
 venue: 'Communications Biology'
+paperurl: 'http://cglemser.github.io/files/TaskRule-LIN.pdf'
 citation: 'Zempeltzi, M., Kisse, M., Brunk, M. G. K., Glemser, C., Aksit, S., Deane, K. E. et al. (2020). Task rule and choice are reflected by layer-specific processing in rodent auditory cortical microcircuits. <i>Commun. Biol.</i>. 3(1). doi: 10.1038/s42003-020-1073-3'
 ---
 
